@@ -26,6 +26,7 @@ func main() {
 
 	// subpackage
 	fmt.Println(sub.GreetMsg)
+	fmt.Println(sub.AlohaMsg)
 
 	// submodule
 	fmt.Println(subm.GreetMsg)
