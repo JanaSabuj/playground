@@ -30,6 +30,7 @@ func main() {
 
 	// submodule
 	fmt.Println(subm.GreetMsg)
+	fmt.Println(subm.NewMsg)
 
 	// submodule
 	fmt.Println(morning.GreetMsg)
