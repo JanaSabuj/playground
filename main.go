@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/JanaSabuj/playground/morning"
 	"github.com/JanaSabuj/playground/sub"           // subpackage
 	"github.com/JanaSabuj/playground/subm"          // submodule
 	"github.com/go-modules-by-example/submodules/b" // 3rd-party submodule
@@ -28,4 +29,7 @@ func main() {
 
 	// submodule
 	fmt.Println(subm.GreetMsg)
+
+	// submodule
+	fmt.Println(morning.GreetMsg)
 }
