@@ -1,8 +1,10 @@
-github.com/JanaSabuj/playground/subm v0.0.0-20221107111718-529116f44789 h1:mJmfYUi77w2aZqkzjvalbZxOvNmwTizMOMUon3yshxw=
-github.com/JanaSabuj/playground/subm v0.0.0-20221107111718-529116f44789/go.mod h1:1ebc+ybCC12RLtLdHNK6C+dBUNEtzF79DmljhnKvqG4=
+github.com/JanaSabuj/playground/subm v0.0.0-20221107114643-4724356beae2 h1:DJMkDIbG2Jqs4+rO0GLiePTudSE656JMSIP5AFKOgnk=
+github.com/JanaSabuj/playground/subm v0.0.0-20221107114643-4724356beae2/go.mod h1:1ebc+ybCC12RLtLdHNK6C+dBUNEtzF79DmljhnKvqG4=
 github.com/go-modules-by-example/submodules/b v0.1.1 h1:dTc7yu2321+YVvzyRm2kyfD51+VWJeEgxGBD9jw7jDQ=
 github.com/go-modules-by-example/submodules/b v0.1.1/go.mod h1:Ard/KqAeWjGGII6CPAlXznV11G3OcnBptJJK6S4ck4k=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
 gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
