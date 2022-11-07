@@ -1,0 +1,6 @@
+# github.com/go-modules-by-example/submodules/b v0.1.1
+## explicit; go 1.12
+github.com/go-modules-by-example/submodules/b
+# gopkg.in/yaml.v2 v2.3.0
+## explicit
+gopkg.in/yaml.v2
