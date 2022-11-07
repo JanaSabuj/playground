@@ -1,3 +1,3 @@
 package subm
 
-const GreetMsg = "Bye forever!"
+const GreetMsg = "Bye forever - 2nd version!"
