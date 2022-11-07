@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/JanaSabuj/playground/sub" // private subpackage
-	"github.com/JanaSabuj/playground/subm"
+	"github.com/JanaSabuj/playground/sub"           // subpackage
+	"github.com/JanaSabuj/playground/subm"          // submodule
 	"github.com/go-modules-by-example/submodules/b" // 3rd-party submodule
 	"gopkg.in/yaml.v2"
 )
