@@ -6,6 +6,10 @@ func add(x, y int) int {
 	return x + y
 }
 
+func sub(x, y int) int {
+	return x - y
+}
+
 func main() {
 	fmt.Println("Hello world")
 	fmt.Println(add(15, 30))

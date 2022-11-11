@@ -10,8 +10,7 @@ func TestCalc(t *testing.T) {
 
 func TestTableCalculate(t *testing.T) {
 	var tests = []struct {
-		x        int
-		y        int
+		x, y     int
 		expected int
 	}{
 		{2, 2, 4},
@@ -23,6 +22,26 @@ func TestTableCalculate(t *testing.T) {
 	for _, test := range tests {
 		if output := add(test.x, test.y); output != test.expected {
 			t.Error("Test failed: {} x, {} y , {} expected, {} received", test.x, test.y, test.expected, output)
+		}
+	}
+}
+
+type SubTestStruct struct {
+	x, y     int
+	expected int
+}
+
+var SubTests = []SubTestStruct{
+	{4, 5, -1},
+	{5, 5, 0},
+	{9, 3, 6},
+}
+
+func TestSubTable(t *testing.T) {
+	for _, test := range SubTests {
+		result := sub(test.x, test.y)
+		if result != test.expected {
+			t.Fatal("Expected result not given")
 		}
 	}
 }
